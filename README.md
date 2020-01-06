@@ -1,6 +1,6 @@
 ## ZFAKA安装教程（Docker版）：
 
-![](https://img.baiyue.one/upload/2019/08/5d5a09df7a3fa.png)
+![](https://liu060011/upload/2019/08/5d5a09df7a3fa.png)
 
 Docker版优势
 
@@ -16,14 +16,14 @@ Docker版优势
 ### 方法1：一键脚本（推荐）
 
 ```bash
-bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/zfaka/master/zfaka.sh)
+bash <(curl -L -s https://raw.githubusercontent.com/liu060011/zfaka/master/zfaka.sh)
 ```
 
-![](https://img.baiyue.one/upload/2019/07/5d20c37515d89.png)
+![](https://liu060011/upload/2019/07/5d20c37515d89.png)
 
 安装结束后：
 
-![](https://img.baiyue.one/upload/2019/07/5d20c3ac80305.png)
+![](https://liu060011/upload/2019/07/5d20c3ac80305.png)
 
 
 
@@ -32,7 +32,7 @@ bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/zfaka/master/zfa
 请自行搞定docker和docker-compose环境
 
 ```
-wget https://raw.githubusercontent.com/Baiyuetribe/zfaka/docker/docker-compose.yml
+wget https://raw.githubusercontent.com/liu060011/zfaka/docker/docker-compose.yml
 docker-compose up -d
 ```
 
@@ -44,7 +44,7 @@ docker-compose up -d
 
 ## 安装后相关问题：
 
-![](https://img.baiyue.one/upload/2019/07/5d1c896077502.png)
+![](https://liu060011/upload/2019/07/5d1c896077502.png)
 更多资料，请参考：[【佰阅书籍】](https://book.baiyue.one/document/zfaka/)
 
 
